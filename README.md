@@ -112,6 +112,4 @@ tokenFactory.RegisterToken("random", () => new RandomToken());
 
 Implement the `ISequenceStorage` interface for persistent storage (e.g., SQLite, Redis).
 
-## License
-
-This project is provided as-is for educational and commercial use.
+## [License](LICENSE)
